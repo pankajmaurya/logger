@@ -7,5 +7,5 @@
  var Version string = "1.0"
     
  func Log(mess string) {
-  fmt.Println("[LOG] " + mess)
+  fmt.Println("[LOG 0.2] " + mess)
  }
